@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-compas_viewer-green.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-compas__viewer-green.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/compas_viewer.svg)](https://anaconda.org/conda-forge/compas_viewer) |
 
 Installing compas_viewer
 ========================
