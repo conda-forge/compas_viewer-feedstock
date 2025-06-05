@@ -1,5 +1,5 @@
 {% set name = "compas_viewer" %}
-{% set version = "1.5.0" %}
+{% set version = "1.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 51f415753bf7f10a90eb200a9a1b14669c738cee78c0f3c37d534bb4bff297fd
+  sha256: fdf3735b28efe75c4aac52bfe848d1be186a78054ca2e9bedc38d0584a283397
 
 build:
   noarch: python
